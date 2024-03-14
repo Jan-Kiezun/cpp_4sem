@@ -1,0 +1,3 @@
+C:/Users/janki/Dev/School/Y2/CPP/01_living_world-Jan-Kiezun/cmake-build-debug/CMakeFiles/01_living_world_Jan_Kiezun.dir
+C:/Users/janki/Dev/School/Y2/CPP/01_living_world-Jan-Kiezun/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/janki/Dev/School/Y2/CPP/01_living_world-Jan-Kiezun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
